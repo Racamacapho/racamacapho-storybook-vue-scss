@@ -1,6 +1,6 @@
 import { fn } from '@storybook/test';
 
-import MyHeader from './Header.vue';
+import MyHeader from 'racamacapho-vue-components/src/Header.vue';
 
 export default {
   title: 'Example/Header',
